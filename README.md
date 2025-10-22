@@ -1,9 +1,11 @@
 # Biomes Docs
 
+This document is extracted from [ill-inc/biomes-game](https://github.com/ill-inc/biomes-game).
+
 ### Local Development
 
 ```bash
-$ yarn start
+$ pnpm start
 ```
 
 This command starts a local development server at `http://localhost:8080` and opens up a browser window. Most changes are reflected live without having to restart the server.
@@ -11,7 +13,7 @@ This command starts a local development server at `http://localhost:8080` and op
 ### Build
 
 ```bash
-$ yarn build
+$ pnpm build
 ```
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
@@ -19,7 +21,7 @@ This command generates static content into the `build` directory and can be serv
 ### Deployment
 
 ```bash
-$ GIT_USER=<Your GitHub username> yarn deploy
+$ GIT_USER=<Your GitHub username> pnpm deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
