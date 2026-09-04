@@ -86,6 +86,10 @@ const config = {
             position: "right",
           },
           {
+            type: "localeDropdown",
+            position: "right",
+          },
+          {
             href: "https://discord.gg/biomes",
             label: "Discord",
             position: "right",
