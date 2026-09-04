@@ -24,7 +24,12 @@ const config = {
   onBrokenMarkdownLinks: "warn",
   i18n: {
     defaultLocale: "en",
-    locales: ["en"],
+    locales: ["en", "zh-TW"],
+    localeConfigs: {
+      "zh-TW": {
+        label: "繁體中文",
+      },
+    },
   },
 
   presets: [

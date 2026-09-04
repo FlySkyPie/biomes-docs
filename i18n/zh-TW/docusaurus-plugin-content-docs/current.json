@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Introduction": {
+    "message": "入門簡介",
+    "description": "The label for category 'Introduction' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Terrain": {
+    "message": "地形系統",
+    "description": "The label for category 'Terrain' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Resource System": {
+    "message": "資源系統",
+    "description": "The label for category 'Resource System' in sidebar 'tutorialSidebar'"
+  }
+}

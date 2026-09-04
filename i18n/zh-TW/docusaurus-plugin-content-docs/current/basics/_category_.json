@@ -1,0 +1,8 @@
+{
+  "label": "入門簡介",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Biomes 安裝、架構與開發工具概覽。"
+  }
+}

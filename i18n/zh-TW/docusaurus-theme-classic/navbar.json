@@ -1,0 +1,38 @@
+{
+  "title": {
+    "message": "Biomes",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Biomes Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Docs": {
+    "message": "文件",
+    "description": "Navbar item with label Docs"
+  },
+  "item.label.F.A.Q.": {
+    "message": "常見問題",
+    "description": "Navbar item with label F.A.Q."
+  },
+  "item.label.Gameplay": {
+    "message": "遊戲介紹",
+    "description": "Navbar item with label Gameplay"
+  },
+  "item.label.Roadmap": {
+    "message": "開發藍圖",
+    "description": "Navbar item with label Roadmap"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  },
+  "item.label.Discord": {
+    "message": "Discord",
+    "description": "Navbar item with label Discord"
+  },
+  "item.label.X": {
+    "message": "X",
+    "description": "Navbar item with label X"
+  }
+}

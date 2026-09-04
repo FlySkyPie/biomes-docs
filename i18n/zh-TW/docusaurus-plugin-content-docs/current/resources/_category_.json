@@ -1,0 +1,8 @@
+{
+  "label": "資源系統",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "建立資源、資源類型、操作資源、依賴注入。"
+  }
+}
